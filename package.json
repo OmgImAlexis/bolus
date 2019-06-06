@@ -17,6 +17,7 @@
   },
   "bugs": "https://github.com/dtjohnson/bolus/issues",
   "dependencies": {
+    "esm": "^3.2.25",
     "glob-all": "^3.0.1"
   },
   "devDependencies": {
